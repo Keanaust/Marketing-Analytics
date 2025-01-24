@@ -4,7 +4,7 @@ This repository contains the project materials for analyzing customer churn in a
 
 ## Project Overview
 
-The project focuses on identifying key factors contributing to customer churn using advanced data analytics techniques. By leveraging the Telco Customer dataset, we aim to build a predictive model that enables better decision-making for retention strategies.
+The project focuses on identifying key factors contributing to customer churn using advanced data analytics techniques. By leveraging the Telco Customer dataset, I aim to build a predictive model that enables better decision-making for retention strategies.
 
 ## Key Highlights
 
@@ -27,11 +27,6 @@ The project focuses on identifying key factors contributing to customer churn us
 ### Results
 - Key drivers of churn identified include contract type, monthly charges, and tenure.
 - Insights provide actionable recommendations for reducing churn.
-
-## Next Steps
-1. Optimize models for improved prediction accuracy.
-2. Develop dashboards to monitor churn trends.
-3. Implement strategies targeting high-risk customer segments.
 
 ## Files Included
 - `Marketing Analytics Project.ipynb`: The complete analysis and modeling process.
